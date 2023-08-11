@@ -1,3 +1,4 @@
 .env
 *.jpg
 *.png
+photo_ids.txt
